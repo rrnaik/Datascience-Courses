@@ -1,2 +1,2 @@
-# Springboard Datascience Course
-This repository contains all the projects and notebooks for hte springboard data science course. 
+# Datascience Courses
+This repository contains all the projects and notebooks from the different data science courses. 
